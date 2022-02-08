@@ -1,2 +1,2 @@
-# djsguide.js_v2.2-o_stable
+# djsguide.js VERSION 2.2 (onlive) STABLE
 Created with CodeSandbox
